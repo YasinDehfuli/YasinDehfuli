@@ -12,18 +12,19 @@ Here,You Can Know Me More ... !
 
 <hr>  
 <h4> You Can Reach Me In :
-    <a href="https://telegram.me/iYasin">Telegram</a> ,
-    <a href="https://twitter.com/yasindehfuli">Twitter</a> ,
-<a href="https://instagram.com/i.ycn">Instagram</a></h4>
+    <a href="https://telegram.me/iYasin" style="color: dodgerblue">Telegram</a> ,
+    <a href="https://twitter.com/yasindehfuli" style="color: cyan">Twitter</a> ,
+<a href="https://instagram.com/i.ycn" style="color: blueviolet">Instagram</a></h4>
 
 
 <h1 style="text-align: center ; color: dodgerblue">I DO : </h1>
-<div style="display: grid ; grid-template-columns: repeat(4,1fr)"><img style=" display:block ;margin: auto" src="svg/css3.svg" alt="">
-<img style=" display:block ;margin: auto" src="svg/html5.svg" alt="">
+<div >
+<img  src="svg/css3.svg" alt="">
+<img  src="svg/html5.svg" alt="">
 <img style=" display:block ;margin: auto" src="svg/Bootstrap.svg" alt="">
-<img style=" display:block ;margin: auto" src="svg/Jquery.svg" alt="">
-<img style=" display:block ;margin: auto" src="svg/JavaScript.svg" alt="">
-<img style=" display:block ;margin: auto" src="svg/PHP.svg" alt="">
-<img style=" display:block ;margin: auto" src="svg/VueJs.svg" alt=""></div>
+<img  src="svg/Jquery.svg" alt="">
+<img  src="svg/JavaScript.svg" alt="">
+<img  src="svg/PHP.svg" alt="">
+<img  src="svg/VueJs.svg" alt=""></div>
 
 <hr>
