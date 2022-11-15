@@ -18,7 +18,7 @@ Here,You Can Know Me More ... !
 
 
 <h1 style="text-align: center ; color: dodgerblue">I DO : </h1>
-<div >
+<div style="display: inline">
 <img  src="svg/css3.svg" alt="">
 <img  src="svg/html5.svg" alt="">
 <img style=" display:block ;margin: auto" src="svg/Bootstrap.svg" alt="">
