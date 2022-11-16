@@ -1,7 +1,7 @@
 <h2 >HELLO WORLD :)</h2>
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=32&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=hI+therE+%F0%9F%96%90+iM+nisaY+%3A%5D;A+fulL+stacK+weB+developeR.;1999+)%3A)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=60&pause=1500&center=true&vCenter=true&width=830&height=167&lines=hI+therE+%F0%9F%96%90+iM+nisaY+%3A%5D;A+fulL+stacK+weB+developeR." alt="Typing SVG" /></a>
 
 
 
