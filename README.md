@@ -1,9 +1,8 @@
 <h2 >HELLO WORLD :)</h2>
 <br>
-<h4>Hi There 🖐
-Im <b>Nisay</b> 👨‍💻
-Here,You Can Know Me More ... !
-</h4>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=32&duration=6000&pause=1500&center=true&vCenter=true&width=435&lines=hI+therE+%F0%9F%96%90+iM+nisaY+%3A%5D;A+fulL+stacK+weB+developeR.;1999+)%3A)" alt="Typing SVG" /></a>
+
 
 
 <h1> LIVING CODE EVERY SECOND...</h1>
@@ -27,8 +26,6 @@ Here,You Can Know Me More ... !
 <img style="float: left ; margin-left: 10px" src="svg/JavaScript.svg" alt="">
 <img style="float: left ; margin-left: 10px" src="svg/PHP.svg" alt="">
 <img style="float: left ; margin-left: 10px" src="svg/VueJs.svg" alt="">
-
-
 </div>
 
 <hr>
