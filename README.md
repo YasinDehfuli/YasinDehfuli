@@ -29,4 +29,4 @@
 </div>
 
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinDehfuli&layout=compact)](https://github.com/YasinDehfuli/github-readme-stats" alt="Top Languages Usage">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YasinDehfuli&show_icons=true&locale=en&layout=compact" alt="Most Languages" />
