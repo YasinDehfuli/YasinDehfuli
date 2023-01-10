@@ -29,4 +29,4 @@
 </div>
 
 <hr>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=YasinDehfuli&layout=compact)](https://github.com/YasinDehfuli/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=YasinDehfuli&layout=compact)](https://github.com/YasinDehfuli/github-readme-stats
