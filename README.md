@@ -1,3 +1,9 @@
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YasinDehfuli)
+
+</div>
+
 <h2 >HELLO WORLD :)</h2>
 <br>
 
@@ -96,9 +102,5 @@
 
 <br/>  
 
-<div align="center">
 
-![](https://komarev.com/ghpvc/?username=YasinDehfuli)
-
-</div>
 
