@@ -12,7 +12,7 @@
 
 
 <h1> LIVING CODE EVERY SECOND...</h1>
-<h2> Linux/Debian </h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=60&pause=1500&center=true&vCenter=true&width=830&height=167&lines=hI+therE+%F0%9F%96%90+iM+nisaY+%3A%5D;A+fulL+stacK+weB+developeR." alt="Typing SVG" /></a>
+<h2> Linux/Debian </h2><p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 
 <div align="center"><img src="WORM.svg"></div>
