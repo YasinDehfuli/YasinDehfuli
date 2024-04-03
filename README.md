@@ -101,7 +101,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinDehfuli&hide_border=true&theme=transparent&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinDehfuli&hide_border=false&theme=transparent&layout=compact" align="center" /></div>  
 
 <br/>  
 
