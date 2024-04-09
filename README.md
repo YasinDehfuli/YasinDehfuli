@@ -1,15 +1,11 @@
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YasinDehfuli)
-
-</div>
+<br>
 
 <p align="center"><b>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 </b><br/>— Martin Fowler</p>
 <br>
 
 <hr>
-<h6>I'm Yasin, Full stack web developer who Interested in the field of programming and technology. Eager to create new projects. In love with Linux and the world of open source and the world of the web.</h6>
+<h5>I'm Yasin, Full stack web developer who Interested in the field of programming and technology. Eager to create new projects. In love with Linux and the world of open source and the world of the web.</h5>
 <hr>
 
 ## Connect with me  
@@ -42,6 +38,14 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinDehfuli&hide_border=false&theme=transparent&layout=compact" align="center" /></div>  
 
 <br/>  
+
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=YasinDehfuli)
+
+</div>
+
+<br>
 
 
 
